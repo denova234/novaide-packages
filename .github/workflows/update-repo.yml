@@ -38,42 +38,17 @@ jobs:
         chmod +x scripts/update-packages-index.sh
         scripts/update-packages-index.sh
         
-    - name: Create basic redirect structure
+    - name: Create redirect structure
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        mkdir -p releases/download/1.0
-        cat > releases/download/1.0/index.html << 'HTML'
-<!DOCTYPE html>
-<html>
-<head>
-    <script>
-        const path = window.location.pathname;
-        const filename = path.split('/').pop();
-        if (filename.endsWith('.deb')) {
-            window.location.href = 'https://github.com/denova234/novaide-packages/releases/download/1.0/' + filename;
-        }
-    </script>
-</head>
-<body>Redirecting...</body>
-</html>
-HTML
+        chmod +x .github/scripts/create-redirects.sh
+        .github/scripts/create-redirects.sh
         
-    - name: Create basic homepage
+    - name: Create repository homepage
       run: |
-        cat > index.html << 'HTML'
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Nova IDE Packages</title>
-    <style>body{font-family:Arial;max-width:800px;margin:0 auto;padding:20px}</style>
-</head>
-<body>
-    <h1>Nova IDE Package Repository</h1>
-    <p>Add to Termux:</p>
-    <code>echo "deb [trusted=yes] https://denova234.github.io/novaide-packages/ stable main" >> \$PREFIX/etc/apt/sources.list</code>
-    <p>Then: <code>pkg update && pkg install [package]</code></p>
-</body>
-</html>
-HTML
+        chmod +x .github/scripts/create-homepage.sh
+        .github/scripts/create-homepage.sh
 
     - name: Commit and push changes
       env:
