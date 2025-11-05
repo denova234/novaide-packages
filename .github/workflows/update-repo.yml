@@ -63,8 +63,10 @@ jobs:
         </body>
         </html>
         EOF
-        
+
     - name: Commit and push changes
+      env:
+        PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
       run: |
         git config --local user.email "alexnova205@gmail.com"
         git config --local user.name "Alex Nova"
@@ -73,5 +75,6 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Update package index - $(date +'%Y-%m-%d %H:%M:%S')"
-          git push
+          # Push using PAT token
+          git push https://${{ github.actor }}:$PAT_TOKEN@github.com/${{ github.repository }}.git main
         fi
