@@ -43,12 +43,12 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         chmod +x scripts/create-redirects.sh
-        .github/scripts/create-redirects.sh
+        scripts/create-redirects.sh
         
     - name: Create repository homepage
       run: |
         chmod +x scripts/create-homepage.sh
-        .github/scripts/create-homepage.sh
+        scripts/create-homepage.sh
 
     - name: Commit and push changes
       env:
