@@ -1,4 +1,4 @@
-# Package index generated on Wed Nov  5 19:25:03 UTC 2025
+# Package index generated on Wed Nov  5 21:17:06 UTC 2025
 # Repository: https://github.com/denova234/novaide-packages
 Package: bash
 Version: 5.3.3-1
@@ -7,7 +7,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 933
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/bash_5.3.3-1_aarch64.deb
+Filename: releases/download/1.0/bash_5.3.3-1_aarch64.deb
 Size: 955560
 MD5sum: ea53706e6638a305c4138ab34d5bdd4c
 SHA256: fcbe33ab9f87879037fd5f188bdb1d318a21457a25311852fa8aca0d510054dd
@@ -19,7 +19,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 175
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/blk-utils_2.41.2_aarch64.deb
+Filename: releases/download/1.0/blk-utils_2.41.2_aarch64.deb
 Size: 179652
 MD5sum: c1c30f58b26e0efbfbc2d0eec3897ea6
 SHA256: 42c04ae8e8c70b9d7b144a88f23e02fdbec4f9eebf416b92bc24213264a89fc8
@@ -31,7 +31,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 25
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/bzip2_1.0.8-8_aarch64.deb
+Filename: releases/download/1.0/bzip2_1.0.8-8_aarch64.deb
 Size: 26152
 MD5sum: 54a9eedce40192084b56f784234b2c8e
 SHA256: 1df08906ac9b5dee6b0480e8cc7d14f47fb3e26840d76f303afda79ad1302d58
@@ -43,7 +43,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 112
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/ca-certificates-java_1_2025.09.09_all.deb
+Filename: releases/download/1.0/ca-certificates-java_1_2025.09.09_all.deb
 Size: 115172
 MD5sum: de4558f6d6140bb1907a686a1623633c
 SHA256: 45c107009d9a59975d1d369cc1996cfd7cc2dbfb66689ec533cbff59cd5ee7a1
@@ -55,7 +55,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 122
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/ca-certificates_1_2025.09.09_all.deb
+Filename: releases/download/1.0/ca-certificates_1_2025.09.09_all.deb
 Size: 125636
 MD5sum: 0de53263bb74cffe2c787da29db12a68
 SHA256: ea3afdec4de3597c773fe6ef0ff1316b764f3cb8f658f7d7d4f5ec58c960e01d
@@ -67,7 +67,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 755
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/coreutils_9.8-1_aarch64.deb
+Filename: releases/download/1.0/coreutils_9.8-1_aarch64.deb
 Size: 773128
 MD5sum: 31aa16a1e0b719706745912efc1bff87
 SHA256: 2ddf43820bc289c6db3691e2beffd1def62fbd1940db90f4d93e3f74cfdceb45
@@ -79,7 +79,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 226
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/curl_8.16.0_aarch64.deb
+Filename: releases/download/1.0/curl_8.16.0_aarch64.deb
 Size: 231552
 MD5sum: c2e7b10e8b2c2f004cd4fe94328f3bc5
 SHA256: 2f084262520303510aa9ed4ac42e4847ea2784d2564d4cd033518942eaa5b715
@@ -91,7 +91,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 64
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/dash_0.5.12-1_aarch64.deb
+Filename: releases/download/1.0/dash_0.5.12-1_aarch64.deb
 Size: 65848
 MD5sum: 06e9bb89ffae6c0a6d65648507aa39ef
 SHA256: 3de2a60e497de107ce1bba943f88b56a081f4cf631a38fd40cfa401d657672d0
@@ -103,7 +103,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 91
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/dialog-static_1.3-20240307-1_aarch64.deb
+Filename: releases/download/1.0/dialog-static_1.3-20240307-1_aarch64.deb
 Size: 93268
 MD5sum: b4de6361dcf1755153690dc38a703e95
 SHA256: d636ac5983a1a37336a250da1d893ef627e42f6e52d78ac2afcdf753ffe8099f
@@ -115,7 +115,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 97
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/dialog_1.3-20240307-1_aarch64.deb
+Filename: releases/download/1.0/dialog_1.3-20240307-1_aarch64.deb
 Size: 100152
 MD5sum: 02270e7459a241f0482f89e50d6d366e
 SHA256: def3cee6e2a0b5abc4b7158b71b811b98b7dd89b3e9c4e5ad8f76ea70ff66954
@@ -127,7 +127,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 158
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/diffutils_3.12-2_aarch64.deb
+Filename: releases/download/1.0/diffutils_3.12-2_aarch64.deb
 Size: 162684
 MD5sum: 6834b5d416e420217e358c3866843272
 SHA256: 7544affb0a5525e8f963d11efc21024a345d9baa780cef4b8ea23e8605a73f30
@@ -139,7 +139,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 112
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/fdisk_2.41.2_aarch64.deb
+Filename: releases/download/1.0/fdisk_2.41.2_aarch64.deb
 Size: 115380
 MD5sum: af20233a5fbe62b050f0aa645c9417f4
 SHA256: c98300ed3bd9720b7e65b928c65afb991e0e1d26f7949607f42ea36a84b1e08a
@@ -151,7 +151,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 66
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/file-static_5.46-2_aarch64.deb
+Filename: releases/download/1.0/file-static_5.46-2_aarch64.deb
 Size: 67644
 MD5sum: f8d0e06441bf6cefe4e3bd2afec48ac9
 SHA256: 3fc507ae89ae9d8d33d482f462f1fdd75b8379f33039ad6b91ecc6b0879039e9
@@ -163,7 +163,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 387
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/file_5.46-2_aarch64.deb
+Filename: releases/download/1.0/file_5.46-2_aarch64.deb
 Size: 396920
 MD5sum: ff148c30897f2c0f17697bff279f5ff3
 SHA256: fe807014d51e74144f33b8fc75bb681022fc6211dc16c9576c221fc0557c0b43
@@ -175,7 +175,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 245
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/findutils_4.10.0-1_aarch64.deb
+Filename: releases/download/1.0/findutils_4.10.0-1_aarch64.deb
 Size: 251432
 MD5sum: 83ac17111c33668138c50eec2e1a484d
 SHA256: 70c0e70fc7549b6ea6912cf71d7bf5fb868c79bc072ada23830d5defa2ff3727
@@ -187,7 +187,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 24
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/gawk-static_5.3.1-2_aarch64.deb
+Filename: releases/download/1.0/gawk-static_5.3.1-2_aarch64.deb
 Size: 24892
 MD5sum: 7760beaff3045a8a1fd176241e6ac8da
 SHA256: ee04f205f7d450a37caf7166443721a4422e5cf3abce43134aabc6784c5f7894
@@ -199,7 +199,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 763
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/gawk_5.3.1-2_aarch64.deb
+Filename: releases/download/1.0/gawk_5.3.1-2_aarch64.deb
 Size: 781944
 MD5sum: ddffa0c807c400388cde588a016fd736
 SHA256: 478335c4b0ea35d389d50663442e4dc3db8a62a872042ba157eba3edc0ec5127
@@ -211,7 +211,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 125
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/grep_3.12-2_aarch64.deb
+Filename: releases/download/1.0/grep_3.12-2_aarch64.deb
 Size: 128064
 MD5sum: b84f68ca442e0b70394bccc72694f599
 SHA256: 6f13d69fbc4d10fba5cb0d1b30a96c822814d62850d1aaf61412ef7b5d5ec260
@@ -223,7 +223,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 85
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/gzip_1.14-1_aarch64.deb
+Filename: releases/download/1.0/gzip_1.14-1_aarch64.deb
 Size: 87552
 MD5sum: 67969efa4b6c233a1fd56ad50595351f
 SHA256: 0973a1a0fa4777e8e275ff28fefa84ea749a0b041b8ed670dceda63d87bf8af2
@@ -235,7 +235,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 9
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/iconv_1.18-1_aarch64.deb
+Filename: releases/download/1.0/iconv_1.18-1_aarch64.deb
 Size: 10028
 MD5sum: ea5ab496422400116c80bf821622bb53
 SHA256: 2c419875decb3bee1fa50027b270a7842edeb9371f633347c0358c13aa4eca10
@@ -247,7 +247,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 178
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/less_685_aarch64.deb
+Filename: releases/download/1.0/less_685_aarch64.deb
 Size: 182384
 MD5sum: 99d47332fb2cb5871e8d87bc6d7d9f58
 SHA256: b4f4797c5210f03a20a5928515b96ba511b20fe585f66f45bd6c9df9c542a566
@@ -259,7 +259,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 4
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libandroid-glob-static_0.6-3_aarch64.deb
+Filename: releases/download/1.0/libandroid-glob-static_0.6-3_aarch64.deb
 Size: 4700
 MD5sum: 0d78e2e811a0397fcc8308afb0f640a6
 SHA256: bc83c8f1895d5610b04d716e86cbb257ac2acf1bac18af0801d8224297c4b5f5
@@ -271,7 +271,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 6
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libandroid-glob_0.6-3_aarch64.deb
+Filename: releases/download/1.0/libandroid-glob_0.6-3_aarch64.deb
 Size: 7028
 MD5sum: 27c6c8cdff397874b759b425708d5293
 SHA256: 20688f6057f9fdb4a50545acade6267524dadced7a3e03ad02b5a36c10d35854
@@ -283,7 +283,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 2
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libandroid-posix-semaphore-static_0.1-4_aarch64.deb
+Filename: releases/download/1.0/libandroid-posix-semaphore-static_0.1-4_aarch64.deb
 Size: 2856
 MD5sum: aff346f33ca9579d6799a91fae598e0b
 SHA256: e81312ee5bb9b461f3c5406fe0968225407b1fdeeb7015fa2fa394b78369a3a2
@@ -295,7 +295,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 3
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libandroid-posix-semaphore_0.1-4_aarch64.deb
+Filename: releases/download/1.0/libandroid-posix-semaphore_0.1-4_aarch64.deb
 Size: 4068
 MD5sum: 12c715d00baf70a0637db1de1b31c0ce
 SHA256: e88cd3e22370feac8721e6fd4488988c59f9067e518f6a873b0cbd536b9f7c01
@@ -307,7 +307,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 58
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libandroid-selinux_14.0.0.11-1_aarch64.deb
+Filename: releases/download/1.0/libandroid-selinux_14.0.0.11-1_aarch64.deb
 Size: 59784
 MD5sum: 7dfdfd8e42af922b41276046e86a20d7
 SHA256: b693dc547160bc3f4a143f39f5604ea0c7543b0a5445ac4b33a55713e281ed4c
@@ -319,7 +319,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 8
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libandroid-support-static_29-1_aarch64.deb
+Filename: releases/download/1.0/libandroid-support-static_29-1_aarch64.deb
 Size: 8628
 MD5sum: 60dd236cc93f0d15f6b8b80134759ed2
 SHA256: b996d4aae7ef8a3671ce72cde49a2d6dada3d47eda253e631481876e173bd57f
@@ -331,7 +331,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 10
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libandroid-support_29-1_aarch64.deb
+Filename: releases/download/1.0/libandroid-support_29-1_aarch64.deb
 Size: 10884
 MD5sum: 6d05c94511964af163346a5c24d2219e
 SHA256: bef0ae31d6b466a8fb54b2b89a346e95cd4273848a4910ed804f7df594518e0e
@@ -343,7 +343,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 122
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libblkid_2.41.2_aarch64.deb
+Filename: releases/download/1.0/libblkid_2.41.2_aarch64.deb
 Size: 125320
 MD5sum: 5dc9bd5fc74b80fdd3de76af01299130
 SHA256: d98c415fda1eaf231a4a5e26aa7ea0bc40c7d20a5bd53a65b596a4e41d190495
@@ -355,7 +355,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 25
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libbz2_1.0.8-8_aarch64.deb
+Filename: releases/download/1.0/libbz2_1.0.8-8_aarch64.deb
 Size: 26104
 MD5sum: 61b39d171aab1023b259c35c1fa636ae
 SHA256: d0947c49a10b9e61d7d39dbf32f759d0e2a3712a37ebc63009f9a992a710555e
@@ -367,7 +367,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 283
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libc%2B%2B_28c_aarch64.deb
+Filename: releases/download/1.0/libc++_28c_aarch64.deb
 Size: 290808
 MD5sum: 275d89fe75c052848d0c603eca4dfd3a
 SHA256: 4564db5f386053230c3209545e421f828696599eba5857317dc9dd631a91eaa0
@@ -379,7 +379,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 8
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libcap-ng-static_2_0.8.5-1_aarch64.deb
+Filename: releases/download/1.0/libcap-ng-static_2_0.8.5-1_aarch64.deb
 Size: 8892
 MD5sum: a9186655c4be8e1d84205adee3f5d290
 SHA256: a785845d260b9a8320b0161325fe989214a65540c94ea0e596aa970acf89dd77
@@ -391,7 +391,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 34
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libcap-ng_2_0.8.5-1_aarch64.deb
+Filename: releases/download/1.0/libcap-ng_2_0.8.5-1_aarch64.deb
 Size: 35668
 MD5sum: cb2df0243c3bea817805fb8338d06173
 SHA256: d7ad6abf80ad12e5e38dbea6759af5f9831fee699f45ad6c5817502011cb18e3
@@ -403,7 +403,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 382
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libcurl-static_8.16.0_aarch64.deb
+Filename: releases/download/1.0/libcurl-static_8.16.0_aarch64.deb
 Size: 391244
 MD5sum: ebc89d5e9cb7f4082f8e6d583610f8f6
 SHA256: 72055236f5ae21d8ddad611130159e932fd46ab1f180ef854b9e002e10648d9c
@@ -415,7 +415,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 958
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libcurl_8.16.0_aarch64.deb
+Filename: releases/download/1.0/libcurl_8.16.0_aarch64.deb
 Size: 981656
 MD5sum: bb8aff0fa5984676f6d7a04e2883d61f
 SHA256: 46eaeb5dd3813c59ed49fdebf1740f4c2311b3946c18ea1b6ac3f672bf22d91b
@@ -427,7 +427,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 153
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libfdisk_2.41.2_aarch64.deb
+Filename: releases/download/1.0/libfdisk_2.41.2_aarch64.deb
 Size: 157444
 MD5sum: bb5a0f9751565161cea531130e612f62
 SHA256: 74dfdb7e7455d4defa22691f97a831c23f1f392058db5a8d36243673f32e45a4
@@ -439,7 +439,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 222
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libgmp-static_6.3.0-2_aarch64.deb
+Filename: releases/download/1.0/libgmp-static_6.3.0-2_aarch64.deb
 Size: 227472
 MD5sum: b84485426d874371b46fe11b2c513237
 SHA256: 27d2fe12be2fdacd400c1b17e71e55d7901991b2509deea8571f418afc69918d
@@ -451,7 +451,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 319
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libgmp_6.3.0-2_aarch64.deb
+Filename: releases/download/1.0/libgmp_6.3.0-2_aarch64.deb
 Size: 327508
 MD5sum: ab95dfa37c17a953fe0a384b0d162166
 SHA256: 31de0f909a6cfc84193de85fab44ea7aece5323e924695a7041b86045c9fdfb8
@@ -463,7 +463,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 543
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libiconv-static_1.18-1_aarch64.deb
+Filename: releases/download/1.0/libiconv-static_1.18-1_aarch64.deb
 Size: 556680
 MD5sum: a3effd3113a726027cf970423b8035b6
 SHA256: 9d0b4282d37dc09da286ef99def390d7fdcd8580decfc15c216d12abda075f79
@@ -475,7 +475,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 549
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libiconv_1.18-1_aarch64.deb
+Filename: releases/download/1.0/libiconv_1.18-1_aarch64.deb
 Size: 562240
 MD5sum: bc9d4b39fd4d07937a296aab02ccb09d
 SHA256: 5b43dd5b9ae616e807a9d289f0bf7d50f56464f8d51e60ffb97d71613428e06f
@@ -487,7 +487,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 87
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/liblzma-static_5.8.1-1_aarch64.deb
+Filename: releases/download/1.0/liblzma-static_5.8.1-1_aarch64.deb
 Size: 89660
 MD5sum: 444d8d46e13aab5ba58c884f8d6139b6
 SHA256: b8ebc19436637392c23dd41c514e17f60f7821f8f34f2efd6ecebbb3b18a6762
@@ -499,7 +499,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 187
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/liblzma_5.8.1-1_aarch64.deb
+Filename: releases/download/1.0/liblzma_5.8.1-1_aarch64.deb
 Size: 191492
 MD5sum: 64358580ed42e92ce9113ea7f41f0584
 SHA256: af447922269d1fcd2b770a8b207c16aeed108f263858cae0675b2b168a128ac6
@@ -511,7 +511,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 148
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libmount_2.41.2_aarch64.deb
+Filename: releases/download/1.0/libmount_2.41.2_aarch64.deb
 Size: 152540
 MD5sum: b7f3aa0d30ded7b30a362172112edeb3
 SHA256: 57be8d9dd34ba4d57228c01f7141a180bc1ca1acd45222c71ef78d95c04c9850
@@ -523,7 +523,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 203
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libmpfr-static_4.2.1-1_aarch64.deb
+Filename: releases/download/1.0/libmpfr-static_4.2.1-1_aarch64.deb
 Size: 208664
 MD5sum: 321fc798a17ca42e2a909321f4634ad9
 SHA256: 70fe40caf4cde154ba71f0fabbb36c68af437c0f36be76dbcfc45dd094721116
@@ -535,7 +535,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 265
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libmpfr_4.2.1-1_aarch64.deb
+Filename: releases/download/1.0/libmpfr_4.2.1-1_aarch64.deb
 Size: 271980
 MD5sum: eb56d5d786255c7689569d3492dd24f6
 SHA256: 517c94ce5667a37cb97484bc11ba81a16f4034a53b45bf00b833d8838e137716
@@ -547,7 +547,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 62
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libnghttp2-static_1.68.0_aarch64.deb
+Filename: releases/download/1.0/libnghttp2-static_1.68.0_aarch64.deb
 Size: 63916
 MD5sum: 13d424f2eaa278674aea3b6a7562d314
 SHA256: 63c769849d9ff2e97a45b6ca0bf5969825ba0721dd79001d5f36705fa892041d
@@ -559,7 +559,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 93
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libnghttp2_1.68.0_aarch64.deb
+Filename: releases/download/1.0/libnghttp2_1.68.0_aarch64.deb
 Size: 95492
 MD5sum: d8de1cb8fa7b01fc8e9948cf6c726af3
 SHA256: 6c7df363b1a7d2f15d92756febf05c78d71cecbf704323c2e5170bc86ba74b51
@@ -571,7 +571,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 61
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libnghttp3-static_1.12.0_aarch64.deb
+Filename: releases/download/1.0/libnghttp3-static_1.12.0_aarch64.deb
 Size: 62888
 MD5sum: d78d2034d32f89c408c56c887297a44c
 SHA256: b468ed6b6a8d75ced9b357f0687381c5d34fc379e99f6afba3569bdefaae2dcc
@@ -583,7 +583,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 65
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libnghttp3_1.12.0_aarch64.deb
+Filename: releases/download/1.0/libnghttp3_1.12.0_aarch64.deb
 Size: 67024
 MD5sum: 307602f5630d6f907edc957948dc4680
 SHA256: 997121cae1daa89373969347a2b2bf4dfb3489d8d5f691ede5703b995d8a2b35
@@ -595,7 +595,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 97
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libsmartcols_2.41.2_aarch64.deb
+Filename: releases/download/1.0/libsmartcols_2.41.2_aarch64.deb
 Size: 99840
 MD5sum: 3d80c808cf2a19977ed534680aa475d5
 SHA256: bdb2da8a1353795df2d35782e34e944833602d12fbc2eb50dfaac795da8911af
@@ -607,7 +607,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 108
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libssh2-static_1.11.1-1_aarch64.deb
+Filename: releases/download/1.0/libssh2-static_1.11.1-1_aarch64.deb
 Size: 110896
 MD5sum: 811d5bff08dda0a5923e2e3039a8c15a
 SHA256: 28601a0483bda5175be29f93a4f27e43a68ed64dc0cb1da34350ec84baec4613
@@ -619,7 +619,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 213
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libssh2_1.11.1-1_aarch64.deb
+Filename: releases/download/1.0/libssh2_1.11.1-1_aarch64.deb
 Size: 218464
 MD5sum: 8abfb472d4be014b7237ba204b57f018
 SHA256: e3b84edf8364ed1dfe133557b9889f9b34a33b5e2f1e2151fd7ff35d268fc957
@@ -631,7 +631,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 11
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libtalloc-static_2.4.3_aarch64.deb
+Filename: releases/download/1.0/libtalloc-static_2.4.3_aarch64.deb
 Size: 11296
 MD5sum: c39338d667924e35a87ff611c99d3239
 SHA256: b944729934d9b040ed3732424234c4bd89afbc0001665e9d908131eeedcf68f4
@@ -643,7 +643,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 32
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libtalloc_2.4.3_aarch64.deb
+Filename: releases/download/1.0/libtalloc_2.4.3_aarch64.deb
 Size: 33104
 MD5sum: d61630abdc907ac53f21b80be4d24603
 SHA256: 4aa7b13a07e2b181916e6ee2c9475699363f1e53c137d890f65558ed904010b6
@@ -655,7 +655,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 15
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/libuuid_2.41.2_aarch64.deb
+Filename: releases/download/1.0/libuuid_2.41.2_aarch64.deb
 Size: 15388
 MD5sum: 9d47710c12d73754c2bc5f9d627e4564
 SHA256: fb931e280148dead1eb67931580800ec6864c1ede991137bfd2ef5583b896a2d
@@ -667,7 +667,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 139
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/mount-utils_2.41.2_aarch64.deb
+Filename: releases/download/1.0/mount-utils_2.41.2_aarch64.deb
 Size: 142632
 MD5sum: c2541f2bcfb9436055ce3600cfbf9e19
 SHA256: f69600ecca9c39b7e8fd42be00bad52cb531fd3d0b57ce3687061d86b0edea46
@@ -679,7 +679,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 150
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/ncurses-static_6.5.20240831-3_aarch64.deb
+Filename: releases/download/1.0/ncurses-static_6.5.20240831-3_aarch64.deb
 Size: 153808
 MD5sum: 57ce67af17e41e04ce99be1f8ca0c6b7
 SHA256: cbb5a1fbe91d97cb46ff663ce8f32e8e4da26e6830e41606b34dd0103d7f0e5e
@@ -691,7 +691,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 38
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/ncurses-ui-libs-static_6.5.20240831-3_aarch64.deb
+Filename: releases/download/1.0/ncurses-ui-libs-static_6.5.20240831-3_aarch64.deb
 Size: 39584
 MD5sum: 7a31ec0558831dfa3498fc035873ee31
 SHA256: d53d81ab3e8f2db3f7f41aebee3f8c4d70f88e312365a0d3eb068dd73b2be81f
@@ -703,7 +703,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 32
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/ncurses-ui-libs_6.5.20240831-3_aarch64.deb
+Filename: releases/download/1.0/ncurses-ui-libs_6.5.20240831-3_aarch64.deb
 Size: 32912
 MD5sum: 3febb9bc5dba306c42592869ad57c544
 SHA256: 3b9b571e2288c1827b8afb86c7bfe25c59433cefadf5fcef137b5351fbee76de
@@ -715,7 +715,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 85
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/ncurses-utils_6.5.20240831-3_aarch64.deb
+Filename: releases/download/1.0/ncurses-utils_6.5.20240831-3_aarch64.deb
 Size: 87840
 MD5sum: fd3a171657345088cb439edd8ec019f7
 SHA256: 63c0dd0d7d8e4cd480c0fcab2da9ae7c8d7e049de83c5737ae14ce93656d4ea1
@@ -727,7 +727,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 524
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/ncurses_6.5.20240831-3_aarch64.deb
+Filename: releases/download/1.0/ncurses_6.5.20240831-3_aarch64.deb
 Size: 537496
 MD5sum: 1cafb1c9e21106f293618cb29d3bdd1e
 SHA256: 0d927d586386934a2dab61a8aaa127ea789e3e9d59fae25f4071c0453a7f5327
@@ -739,7 +739,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 2535
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/openssl-static_1_3.5.2_aarch64.deb
+Filename: releases/download/1.0/openssl-static_1_3.5.2_aarch64.deb
 Size: 2596152
 MD5sum: b8283dc8bd994bbad5dc33a396bc5524
 SHA256: 72cf7a6b143565f58a9f48c2d8ca4e7edddf174268d0532f64c257c5984fe192
@@ -751,7 +751,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 265
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/openssl-tool_1_3.5.2_aarch64.deb
+Filename: releases/download/1.0/openssl-tool_1_3.5.2_aarch64.deb
 Size: 271860
 MD5sum: 9ce58d409edfdbe169c0277906fda346
 SHA256: 272292d5547332e3a432d6c5cbd050755893b612775b5b03fccecaeb034dbb2a
@@ -763,7 +763,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 2389
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/openssl_1_3.5.2_aarch64.deb
+Filename: releases/download/1.0/openssl_1_3.5.2_aarch64.deb
 Size: 2446640
 MD5sum: 5dc7694e70a4b2ccb6aa244741b49b35
 SHA256: 2c345e43d215ea1d29d4a7ccc516271b04bcf0a30781ec099eb489c85e48cb99
@@ -775,7 +775,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 368
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/pcre2-static_10.47_aarch64.deb
+Filename: releases/download/1.0/pcre2-static_10.47_aarch64.deb
 Size: 376888
 MD5sum: ed5856ca047490a64c4c6fe1ca50b696
 SHA256: 9cb499f12af2bbb5eb91f2071e23ffeb7b5ec12419b57e7fc3a79eb015a4eb56
@@ -787,7 +787,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 33
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/pcre2grep_10.47_aarch64.deb
+Filename: releases/download/1.0/pcre2grep_10.47_aarch64.deb
 Size: 34032
 MD5sum: 2eef9d351140a11677fa116fd28b84b5
 SHA256: 671214ae03a0848b2ee25715d8d32bdbdce86f24b6970cdd51c1996b9c00c1fd
@@ -799,7 +799,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 938
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/pcre2_10.47_aarch64.deb
+Filename: releases/download/1.0/pcre2_10.47_aarch64.deb
 Size: 961124
 MD5sum: ece84ccceba517d9fdf2b27599804918
 SHA256: a0e2dfe53634ac2c8b8780cd1d88f97ffb5cdc1bff1bc65e103fc0cb7d23a534
@@ -811,7 +811,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 27
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/procps-static_3.3.17-6_aarch64.deb
+Filename: releases/download/1.0/procps-static_3.3.17-6_aarch64.deb
 Size: 28584
 MD5sum: 40a7eb4c86073ed92cc07a7073f54c99
 SHA256: 1032feb97903b7e3ca0ad835b7b09857a93f674e9ecf3779d6a9a3265aacd971
@@ -823,7 +823,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 139
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/procps_3.3.17-6_aarch64.deb
+Filename: releases/download/1.0/procps_3.3.17-6_aarch64.deb
 Size: 143016
 MD5sum: 048eb6083986394eb8a5d57fcc4a693a
 SHA256: b4d54579cbce9902d4e32b36f18299edc6b2dca7f9193184be8a15ffe06e7b19
@@ -835,7 +835,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 30
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/proot-distro_4.31.0_all.deb
+Filename: releases/download/1.0/proot-distro_4.31.0_all.deb
 Size: 31496
 MD5sum: 5314254d99c0dbaea4a677da1a053a3d
 SHA256: 56d51d23b4e94a1b3fb729dfa9b8138b94ad871459a2b4abb21295e5ec5608cc
@@ -847,7 +847,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 83
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/proot_5.1.107-67_aarch64.deb
+Filename: releases/download/1.0/proot_5.1.107-67_aarch64.deb
 Size: 85116
 MD5sum: 6fe66c0a7c961d234029adb41b377edb
 SHA256: 9f6d479639a8aa123e53c036d72f3e09ca49750e7a986516e97e8f992f56e1c5
@@ -859,7 +859,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 90
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/psmisc_23.7-1_aarch64.deb
+Filename: releases/download/1.0/psmisc_23.7-1_aarch64.deb
 Size: 92656
 MD5sum: 58e0caea5ee6e264fd4ca5f92bb8734d
 SHA256: fa76de98b34df8d595c68baf310417d0a43b246d9940b220af1afc9862499cac
@@ -871,7 +871,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 122
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/readline-static_8.3.1-1_aarch64.deb
+Filename: releases/download/1.0/readline-static_8.3.1-1_aarch64.deb
 Size: 125128
 MD5sum: 60ace6f9e6fc59da62448254e60df26c
 SHA256: e3104097d657b0a51e2caea704fe150b9b10ab804c577e0ee8936060f187a9ab
@@ -883,7 +883,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 286
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/readline_8.3.1-1_aarch64.deb
+Filename: releases/download/1.0/readline_8.3.1-1_aarch64.deb
 Size: 293592
 MD5sum: b8f797b68ab860b1f9a66a799cb9bf62
 SHA256: 99160a7d31361341d429ebc6d6344de9e4dde90a770a50ac1db709a2cde6b1eb
@@ -895,7 +895,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 114
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/sed_4.9-2_aarch64.deb
+Filename: releases/download/1.0/sed_4.9-2_aarch64.deb
 Size: 117560
 MD5sum: 1e516f40e10479cc2d417420299f27ba
 SHA256: a69e20c05b0e49db364d95d52bfa9106e8b45d43cf68d9156e65853a2b57966d
@@ -907,7 +907,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 334
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/tar_1.35-1_aarch64.deb
+Filename: releases/download/1.0/tar_1.35-1_aarch64.deb
 Size: 342700
 MD5sum: 711e3231ee88c48ee3bce85b5dedbbe6
 SHA256: 813f1f3b77b440b0d672b99e59c901762be9bf1877bb3a225ecb7ff8a86c8664
@@ -919,7 +919,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 15
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/termux-am-socket_1.5.0-1_aarch64.deb
+Filename: releases/download/1.0/termux-am-socket_1.5.0-1_aarch64.deb
 Size: 16144
 MD5sum: 16164b40351735e537f627dd75e458fb
 SHA256: ba74472df6ba395ed7ef2dd72ce8654dcc6ecd31aefa9d1101fe11fb70172d8a
@@ -931,7 +931,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 563
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/termux-am_0.8.0-2_all.deb
+Filename: releases/download/1.0/termux-am_0.8.0-2_all.deb
 Size: 577132
 MD5sum: 7d184dc563846231b3ec664d3406b6dd
 SHA256: 0df3303faaae45705f0ded1515eabfccdf44baca9bbfc50e694b685efc35d670
@@ -943,7 +943,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 19
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/termux-core-static_0.4.0-1_aarch64.deb
+Filename: releases/download/1.0/termux-core-static_0.4.0-1_aarch64.deb
 Size: 20164
 MD5sum: 6d60b04f2dd1189738f6b6ec4af6f6e5
 SHA256: 96198041bb3555741ffec5175c2d35f213b740644fe3fb97f8652f40d5d3b1ea
@@ -955,7 +955,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 193
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/termux-core_0.4.0-1_aarch64.deb
+Filename: releases/download/1.0/termux-core_0.4.0-1_aarch64.deb
 Size: 197776
 MD5sum: a3f572fd340d932a8e1f6d73526b2632
 SHA256: 0cc0b611eb0d67df31bf5a8802cdc7c500509ce763d2cacbf490170294b7df01
@@ -967,7 +967,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 10
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/termux-exec-static_1_2.4.0-1_aarch64.deb
+Filename: releases/download/1.0/termux-exec-static_1_2.4.0-1_aarch64.deb
 Size: 10620
 MD5sum: 4ae97fa7a6218382eba06d4c53ea5029
 SHA256: d40a94e52387d28df7dd7f51daaef9fee6766cfcf2f0af0756d7f93de7249761
@@ -979,7 +979,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 280
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/termux-exec_1_2.4.0-1_aarch64.deb
+Filename: releases/download/1.0/termux-exec_1_2.4.0-1_aarch64.deb
 Size: 287544
 MD5sum: e225718edb23197d4817a80f31f8c733
 SHA256: b2a592bcd218dcc383164021ee308e6c725247cdac1944aca04b115bd5f71abf
@@ -991,7 +991,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 32
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/termux-tools_1.46.0%2Breally1.45.0-1_aarch64.deb
+Filename: releases/download/1.0/termux-tools_1.46.0+really1.45.0-1_aarch64.deb
 Size: 33616
 MD5sum: e28a5e49753858b83fb674940dea7ae0
 SHA256: 88649bb0bded497180bc6156a1f426aedfb3a8a93b120ae412193df285989493
@@ -1003,7 +1003,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 421
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/util-linux-static_2.41.2_aarch64.deb
+Filename: releases/download/1.0/util-linux-static_2.41.2_aarch64.deb
 Size: 432036
 MD5sum: 8e3fd913f4e94a57bf0364e22e81a50d
 SHA256: 90c31421caf983ffdb3b19bddf41cf0837f83dc1f19205f5c610d2de39655c09
@@ -1015,7 +1015,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 719
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/util-linux_2.41.2_aarch64.deb
+Filename: releases/download/1.0/util-linux_2.41.2_aarch64.deb
 Size: 736696
 MD5sum: 3bddd85eaa6cda3380a201cb96a783e6
 SHA256: 5ab565f50b8b27f6ee24853f2417beb75c7fef8215ac240276b20a5ca5b4ef8b
@@ -1027,7 +1027,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 40
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/uuid-utils_2.41.2_aarch64.deb
+Filename: releases/download/1.0/uuid-utils_2.41.2_aarch64.deb
 Size: 41020
 MD5sum: db90f7c05df29b24ab887588b3b89648
 SHA256: 3b4d24b0f24235e50752c433e445f363e939553ab87d4131802c225e8e14c498
@@ -1039,7 +1039,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 69
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/xz-utils_5.8.1-1_aarch64.deb
+Filename: releases/download/1.0/xz-utils_5.8.1-1_aarch64.deb
 Size: 71068
 MD5sum: 1a4e7f816ade46eb2fd0fe5fba9ab2eb
 SHA256: 0db3dc64fe48718f8880045efa6cbf57916cc2610cf0f1fa2759f2d6897af757
@@ -1051,7 +1051,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 33
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/zlib-static_1.3.1-1_aarch64.deb
+Filename: releases/download/1.0/zlib-static_1.3.1-1_aarch64.deb
 Size: 34408
 MD5sum: 9cc1c03b70c3f666fa5ebbdaf5d4d4c9
 SHA256: d945aa4305392a31ac334bd28be9c57852c824036700ea7de9eabdabd8d65bc5
@@ -1063,7 +1063,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: 58
 Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
 Homepage: https://github.com/denova234/novaide-packages
-Filename: https://github.com/denova234/novaide-packages/releases/download/1.0/zlib_1.3.1-1_aarch64.deb
+Filename: releases/download/1.0/zlib_1.3.1-1_aarch64.deb
 Size: 60076
 MD5sum: 67e53158638f48ec4afefe0fe893dc89
 SHA256: 2dc84174c76c67ded24fc2f5fcf650c4c08a510c8f39bc200e11aa0b66a0250c
