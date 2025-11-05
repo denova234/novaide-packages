@@ -60,7 +60,7 @@ def generate_package_entry(asset, release):
     entry = f"""Package: {package_name}
 Version: {version}
 Architecture: {architecture}
-Maintainer: Nova IDE <nova@example.com>
+Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: {size // 1024}
 Description: {description}
 Homepage: https://github.com/nova-ide/novaide-packages
