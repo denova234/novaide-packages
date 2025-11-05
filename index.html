@@ -1,82 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
+    <title>Nova IDE Packages</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Termux Repository</title>
     <style>
         body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
-        .header { background: #f4f4f4; padding: 20px; border-radius: 5px; }
-        .package { border: 1px solid #ddd; padding: 15px; margin: 10px 0; border-radius: 5px; }
+        .header { background: #f0f8ff; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
+        code { background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>Custom Termux Repository</h1>
-        <p>Add this repository to your Termux installation:</p>
-        <code>
-            echo "deb [trusted=yes] https://your-username.github.io/your-repo-name/ stable main" >> $PREFIX/etc/apt/sources.list
-        </code>
-        <p>Then run: <code>pkg update && pkg install your-package</code></p>
+        <h1>Nova IDE Termux Repository</h1>
+        <p>Add this repository to Termux:</p>
+        <code>echo "deb [trusted=yes] https://nova-ide.github.io/novaide-packages/ stable main" >> \$PREFIX/etc/apt/sources.list</code>
+        <p>Then run: <code>pkg update && pkg install [package-name]</code></p>
     </div>
-    
-    <h2>Available Packages</h2>
-    <div id="packages">
-        <!-- Packages will be listed here by JavaScript -->
-        Loading packages...
-    </div>
-
-    <script>
-        async function loadPackages() {
-            try {
-                const response = await fetch('dists/stable/main/binary-aarch64/Packages');
-                const text = await response.text();
-                const packages = parsePackages(text);
-                displayPackages(packages);
-            } catch (error) {
-                document.getElementById('packages').innerHTML = 'Error loading packages.';
-            }
-        }
-
-        function parsePackages(text) {
-            const packages = [];
-            const entries = text.split('\n\n');
-            
-            entries.forEach(entry => {
-                if (entry.trim()) {
-                    const pkg = {};
-                    entry.split('\n').forEach(line => {
-                        const [key, ...value] = line.split(':');
-                        if (key && value) {
-                            pkg[key.trim()] = value.join(':').trim();
-                        }
-                    });
-                    if (pkg.Package) packages.push(pkg);
-                }
-            });
-            
-            return packages;
-        }
-
-        function displayPackages(packages) {
-            const container = document.getElementById('packages');
-            container.innerHTML = '';
-            
-            packages.forEach(pkg => {
-                const div = document.createElement('div');
-                div.className = 'package';
-                div.innerHTML = `
-                    <h3>${pkg.Package} (${pkg.Version})</h3>
-                    <p><strong>Architecture:</strong> ${pkg.Architecture}</p>
-                    <p><strong>Description:</strong> ${pkg.Description}</p>
-                    <p><strong>Size:</strong> ${(pkg.Size / 1024 / 1024).toFixed(2)} MB</p>
-                    <a href="${pkg.Filename}" target="_blank">Download .deb</a>
-                `;
-                container.appendChild(div);
-            });
-        }
-
-        loadPackages();
-    </script>
+    <p>Repository automatically updated on release publication.</p>
 </body>
 </html>
