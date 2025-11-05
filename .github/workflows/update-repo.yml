@@ -1,0 +1,65 @@
+name: Update Package Repository
+
+on:
+  release:
+    types: [published, edited, released]
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly updates
+
+jobs:
+  update-repository:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pycurl
+        
+    - name: Generate package index
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        chmod +x scripts/update-packages-index.sh
+        scripts/update-packages-index.sh
+        
+    - name: Create repository metadata
+      run: |
+        cd dists/stable
+        echo "Origin: Your Termux Repository" > Release
+        echo "Label: Your Termux Repo" >> Release
+        echo "Suite: stable" >> Release
+        echo "Version: 1.0" >> Release
+        echo "Codename: stable" >> Release
+        echo "Architectures: aarch64" >> Release
+        echo "Components: main" >> Release
+        echo "Description: Custom Termux package repository" >> Release
+        date -u +"%a, %d %b %Y %H:%M:%S %Z" >> Release
+        
+    - name: Sign repository (optional)
+      run: |
+        if [ -f "${{ secrets.GPG_PRIVATE_KEY }}" ]; then
+          echo "${{ secrets.GPG_PRIVATE_KEY }}" | gpg --import
+          cd dists/stable
+          gpg --armor --detach-sign -o Release.gpg Release
+          gpg --clearsign -o InRelease Release
+        fi
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --staged --quiet || git commit -m "Update package index - $(date)"
+        git push
