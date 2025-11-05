@@ -59,12 +59,18 @@ def generate_package_entry(asset, release):
     if not package_name:
         return None
     
+    # Use your new approach: relative path to releases
+    release_tag = release.get('tag_name', '1.0')
+    filename_path = f"releases/download/{release_tag}/{asset['name']}"
+    
+    # The actual download URL for checksum calculation
     download_url = asset['browser_download_url']
     
     debug_log(f"Processing: {package_name} {version} {architecture}")
-    debug_log(f"Download URL: {download_url}")
+    debug_log(f"Filename path: {filename_path}")
+    debug_log(f"Actual URL for checksums: {download_url}")
     
-    # Calculate checksums
+    # Calculate checksums using the actual GitHub URL
     debug_log("Calculating checksums...")
     md5sum, sha256sum, calculated_size = calculate_checksums_from_github(download_url)
     
@@ -76,8 +82,10 @@ def generate_package_entry(asset, release):
     
     # Get description
     description = release.get('body', '').split('\n')[0] or f"Package {package_name}"
+    if len(description) > 200:
+        description = description[:200] + "..."
     
-    # Generate package entry
+    # Generate package entry using your relative path approach
     entry = f"""Package: {package_name}
 Version: {version}
 Architecture: {architecture}
@@ -85,7 +93,7 @@ Maintainer: Nova IDE <alexnova205@gmail.com>
 Installed-Size: {calculated_size // 1024}
 Description: {description}
 Homepage: https://github.com/denova234/novaide-packages
-Filename: {download_url}
+Filename: {filename_path}
 Size: {calculated_size}
 MD5sum: {md5sum}
 SHA256: {sha256sum}
@@ -115,7 +123,8 @@ def main():
         valid_packages = []
         
         for i, release in enumerate(releases):
-            debug_log(f"Processing release {i+1}: {release.get('tag_name', 'unknown')}")
+            release_tag = release.get('tag_name', 'unknown')
+            debug_log(f"Processing release {i+1}: {release_tag}")
             
             if release.get('draft', False):
                 debug_log("Skipping draft release")
@@ -147,7 +156,7 @@ def main():
         
         if package_count == 0:
             debug_log("No valid packages found!")
-            # Create a minimal valid Packages file with just comments
+            # Create a minimal valid Packages file
             sys.stdout.write("# No packages available in releases\n")
             sys.stdout.write("# Upload .deb files to GitHub releases to populate repository\n")
                     
