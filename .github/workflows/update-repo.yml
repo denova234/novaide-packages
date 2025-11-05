@@ -25,41 +25,53 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests pycurl
+        pip install requests
+        sudo apt-get update
+        sudo apt-get install -y jq
         
     - name: Generate package index
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        REPO_OWNER: nova-ide
+        REPO_NAME: novaide-packages
       run: |
         chmod +x scripts/update-packages-index.sh
         scripts/update-packages-index.sh
         
-    - name: Create repository metadata
+    - name: Create basic index.html
       run: |
-        cd dists/stable
-        echo "Origin: Your Termux Repository" > Release
-        echo "Label: Your Termux Repo" >> Release
-        echo "Suite: stable" >> Release
-        echo "Version: 1.0" >> Release
-        echo "Codename: stable" >> Release
-        echo "Architectures: aarch64" >> Release
-        echo "Components: main" >> Release
-        echo "Description: Custom Termux package repository" >> Release
-        date -u +"%a, %d %b %Y %H:%M:%S %Z" >> Release
-        
-    - name: Sign repository (optional)
-      run: |
-        if [ -f "${{ secrets.GPG_PRIVATE_KEY }}" ]; then
-          echo "${{ secrets.GPG_PRIVATE_KEY }}" | gpg --import
-          cd dists/stable
-          gpg --armor --detach-sign -o Release.gpg Release
-          gpg --clearsign -o InRelease Release
-        fi
+        cat > index.html << 'EOF'
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <title>Nova IDE Packages</title>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <style>
+                body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+                .header { background: #f0f8ff; padding: 20px; border-radius: 10px; margin-bottom: 20px; }
+                code { background: #f4f4f4; padding: 2px 5px; border-radius: 3px; }
+            </style>
+        </head>
+        <body>
+            <div class="header">
+                <h1>Nova IDE Termux Repository</h1>
+                <p>Add this repository to Termux:</p>
+                <code>echo "deb [trusted=yes] https://nova-ide.github.io/novaide-packages/ stable main" >> \$PREFIX/etc/apt/sources.list</code>
+                <p>Then run: <code>pkg update && pkg install [package-name]</code></p>
+            </div>
+            <p>Repository automatically updated on release publication.</p>
+        </body>
+        </html>
+        EOF
         
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "alexnova205@gmail.com"
+        git config --local user.name "Alex Nova"
         git add .
-        git diff --staged --quiet || git commit -m "Update package index - $(date)"
-        git push
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update package index - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push
+        fi
