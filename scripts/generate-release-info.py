@@ -61,7 +61,7 @@ def generate_package_entry(asset, release):
     
     # Use your new approach: relative path to releases
     release_tag = release.get('tag_name', '1.0')
-    filename_path = f"releases/download/{release_tag}/{asset['name']}"
+    filename_path = f"releases?tag={release_tag}&package={asset['name']}"
     
     # The actual download URL for checksum calculation
     download_url = asset['browser_download_url']
