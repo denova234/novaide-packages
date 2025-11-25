@@ -37,18 +37,6 @@ jobs:
       run: |
         chmod +x scripts/update-packages-index.sh
         scripts/update-packages-index.sh
-        
-    - name: Create redirect structure
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        chmod +x scripts/create-redirects.sh
-        scripts/create-redirects.sh
-        
-    - name: Create repository homepage
-      run: |
-        chmod +x scripts/create-homepage.sh
-        scripts/create-homepage.sh
 
     - name: Commit and push changes
       env:
