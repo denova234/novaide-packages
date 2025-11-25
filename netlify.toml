@@ -1,0 +1,12 @@
+[build]
+  publish = "."
+
+[dev]
+  functions = "netlify/functions"
+
+[[redirects]]
+  # Redirect old static paths if needed
+  from = "/releases/*"
+  to = "/.netlify/functions/redirect"
+  status = 200
+  force = true
