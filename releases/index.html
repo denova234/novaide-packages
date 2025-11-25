@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Package Redirect</title>
+    <script>
+        function redirectPackage() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const packageFile = urlParams.get('package');
+            const releaseTag = urlParams.get('tag') || '1.0';
+            
+            if (packageFile) {
+                // Basic validation - check if it ends with .deb
+                if (packageFile.endsWith('.deb')) {
+                    const newUrl = `https://github.com/denova234/novaide-packages/releases/download/${releaseTag}/${packageFile}`;
+                    window.location.href = newUrl;
+                } else {
+                    document.getElementById('message').innerHTML = 
+                        'Invalid package file format. Must be a .deb file.';
+                }
+            } else {
+                document.getElementById('message').innerHTML = 
+                    'No package parameter specified.';
+            }
+        }
+        
+        // Run when page loads
+        window.onload = redirectPackage;
+    </script>
+</head>
+<body>
+    <div id="message">Redirecting...</div>
+</body>
+</html>
