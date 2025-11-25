@@ -1,0 +1,3 @@
+# Redirect patterns for package downloads
+/releases/package/:package https://github.com/denova234/novaide-packages/releases/download/1.0/:package 302!
+/releases/download/:tag/:package https://github.com/denova234/novaide-packages/releases/download/:tag/:package 302!
