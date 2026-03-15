@@ -1,4 +1,4 @@
-# Package index generated on Sun Mar  8 01:43:06 UTC 2026
+# Package index generated on Sun Mar 15 01:54:09 UTC 2026
 # Repository: https://github.com/denova234/novaide-packages
 Package: apr-static
 Version: 1.7.6-2
@@ -1907,6 +1907,18 @@ Filename: releases?tag=1.0&package=serf_1.3.10-2_aarch64.deb
 Size: 47712
 MD5sum: 4ce85f27b591ec2d69a9de5d30d34e43
 SHA256: f4ab7609bd83d1aa3c9d72b481605006d705802ff7e19130f2ecd2571d3ecf0b
+
+Package: sqlite
+Version: 3.50.4-1
+Architecture: aarch64
+Maintainer: Nova IDE <alexnova205@gmail.com>
+Installed-Size: 598
+Description: **Full Changelog**: https://github.com/denova234/novaide-packages/commits/1.0
+Homepage: https://github.com/denova234/novaide-packages
+Filename: releases?tag=1.0&package=sqlite_3.50.4-1_aarch64.deb
+Size: 612892
+MD5sum: 71f25b547ec858756b8db8da0f198222
+SHA256: 57d815c2711ced617f669c51ce7a83d087efc77ef306852fd9d148a5bc058a93
 
 Package: subversion-perl-static
 Version: 1.14.5-1
