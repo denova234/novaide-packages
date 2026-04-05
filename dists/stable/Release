@@ -6,10 +6,10 @@ Codename: stable
 Architectures: aarch64
 Components: main
 Description: Custom packages for Nova IDE
-Date: Sun, 29 Mar 2026 01:57:10 UTC
+Date: Sun, 05 Apr 2026 01:59:11 UTC
 MD5Sum:
- f8069ef77439d7775dd8efa96299ecae 87848 main/binary-aarch64/Packages
- 3596eb7236a6a725cd168689c14d88d5 16771 main/binary-aarch64/Packages.gz
+ bc972c595244f3a9c47cc69ce17d266e 87848 main/binary-aarch64/Packages
+ 8f21c47c8b59dfd0e4be3a3bd3b1e47b 16773 main/binary-aarch64/Packages.gz
 SHA256:
- aee3ba199cb207e5a052661f9f7b33d41e68d5b3ed16dbae885fb169f78dd838 87848 main/binary-aarch64/Packages
- 880101c78c79ca3e88e997037486aaa0d24b3f67cd388eefaf9fa577e03c9de6 16771 main/binary-aarch64/Packages.gz
+ 690f4421c9aa4c60990476eb249c35a4e171f643f99fd73fd7ce1080b8244db6 87848 main/binary-aarch64/Packages
+ 503b304c7701965b5dffffc033d860cfd1378136861cee6ae8e7178b48360511 16773 main/binary-aarch64/Packages.gz
